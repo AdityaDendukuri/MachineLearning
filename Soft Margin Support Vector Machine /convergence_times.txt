@@ -1,0 +1,6 @@
+CONVERGENCE TIMES:
+
+Batch Gradient Descent: 1.52661204338 seconds
+Stochastic Gradient Descent: 35.0849909782 seconds
+Mini Batch Gradient Descent: 13.6391267776 seconds
+
